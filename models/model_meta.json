@@ -1,0 +1,14 @@
+{
+  "Ensemble": {
+    "type": "soft_voting",
+    "weights": {
+      "rf": 0.7,
+      "lgb": 0.3
+    },
+    "components": {
+      "rf_calibrated_pkl": "models/model_RF_calibrated.pkl",
+      "lgbm_pkl": "models/model_LightGBM.pkl"
+    },
+    "threshold": 0.4829607886907489
+  }
+}

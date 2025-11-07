@@ -1,0 +1,7 @@
+AUPRC_curve: 0.958612
+ROC_AUC: 0.997839
+Chosen_threshold: 0.333333
+Precision@th: 0.876923
+Recall@th: 0.868902
+F1@th: 0.872894
+post_k: 4

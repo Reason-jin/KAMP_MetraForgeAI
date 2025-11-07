@@ -1,0 +1,8 @@
+Mode: cascade
+AP_tab: 0.635300
+AP_dl: 0.947950
+AP_cascade: 0.779282
+Best_threshold_under_precision_floor(0.9): 0.030063
+Precision@best: 0.926316
+Recall@best: 0.804878
+F1@best: 0.861338
